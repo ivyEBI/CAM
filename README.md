@@ -8,7 +8,7 @@
     <td>My name is Andrea</td> 
   </tr>
   <tr>
-    <td>Rob's photo/td>
+    <td>Rob's photo</td>
     <td>My name is Rob</td> 
   </tr>
   <tr>
