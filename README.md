@@ -20,7 +20,7 @@
     <td>my name is Jimmy Chen</td>
   </tr>
   <tr>
-    <td><img src="ding.jpg" alt="" border=3 height=100 width=100></td>
+    <td><img src="ding.jpg" alt="" border=3 height=100 width=100></img></td>
     <td>my name is Minjie Ding</td>
   </tr>
 </table>
