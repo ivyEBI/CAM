@@ -4,7 +4,7 @@
     <th>Profile</th> 
   </tr>
   <tr>
-    <td>Andrea's photo</td>
+    <td><img src="andrea.jpg" alt="" border=3 height=100 width=100></img></td>
     <td>My name is Andrea</td> 
   </tr>
   <tr>
