@@ -4,7 +4,7 @@
     <th>Profile</th> 
   </tr>
   <tr>
-    <td><img src="https://educationagent.github.io/CAM/andrea.jpg" alt="" border=3 height=100 width=100></img></td>
+    <td><img src="andrea.jpg" alt="" border=3 height=100 width=100></img></td>
     <td>My name is Andrea. I am a scientist working on various aspects of cancer research. Currently I am employed at the Sanger Institute in Cambridge, UK, one of the most famous research centres in the world, where about one third of the human genome was sequenced. I am the author of several international scientific publications in the areas of computer science, mathematics and computational biology.</td> 
   </tr>
   <tr>
