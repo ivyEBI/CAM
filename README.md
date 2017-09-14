@@ -1,4 +1,5 @@
 <html>
+ <img src="andrea.jpg" alt="" border=3 height=100 width=100 /> 
 <table style="width:100%">
   <tr>
     <th>Photo</th>
