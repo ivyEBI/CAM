@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <table style="width:100%">
   <tr>
     <th>Photo</th>
@@ -24,3 +26,4 @@
     <td>my name is Minjie Ding</td>
   </tr>
 </table>
+</html>
