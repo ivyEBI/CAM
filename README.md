@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <table style="width:100%">
   <tr>
